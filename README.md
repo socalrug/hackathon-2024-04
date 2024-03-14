@@ -155,7 +155,7 @@ The channel for the hackathon is **hackathon-2024-04**
 
 See the [presentation guidelines](https://github.com/socalrug/hackathon-2023-04/blob/master/presentation/presentation_guidelines.md) for the requirements. The team prizes will be determined by a panel of judges using the following [judging guidelines](https://github.com/socalrug/hackathon-2023-04/blob/master/admin/judging_guidelines.md).  The judge's decision is final.
 
-Below is a list of the awards and [prizes](https://github.com/socalrug/hackathon-2023-04/blob/master/admin/prizes.md). Winners will be able to select from the available assortment of prizes.
+Below is a list of the awards and [prizes](https://github.com/socalrug/hackathon-2024-04/blob/main/prizes/prizes.md). Winners will be able to select from the available assortment of prizes.
 
 * Best Presentation
 * Best Analysis
@@ -168,7 +168,7 @@ On Saturday evening, we will have an hour-long data challenge event, the idea is
 
 ## Post-event Survey
 
-After the event, please complete the [SoCal RUG Hackathon 2023-04 Survey](https://docs.google.com/forms/d/e/1FAIpQLSfFrMmL40eTvoJCvFVN70QrZE3m51a4z-XPcGAX4yBj_VOJrw/viewform). This is important feedback so that we can constantly improve our events.
+After the event, please complete the [SoCal RUG Hackathon 2024-04 Survey](https://forms.gle/28TzY15TWoFNJF8s8). This is important feedback so that we can constantly improve our events.
 
 ## Resources
 
@@ -200,7 +200,7 @@ After the event, please complete the [SoCal RUG Hackathon 2023-04 Survey](https:
     * From the Economist about mistakes they've made with *published* data visualizations, and how they'd fix the problems.
     * Note: even professionals make mistakes too!
 
-* [DALEX R Package -- Descriptive mAchine Learning EXplanations](https://github.com/pbiecek/DALEX)
+* [DALEX R Package -- Descriptive Machine Learning Explanations](https://github.com/pbiecek/DALEX)
     * Provides a set of tools that help you to understand how complex models are working
     * Helps you visualize what's going on
     * Check out the [cheatsheet](https://github.com/pbiecek/DALEX/blob/master/misc/DALEX_local.png)
