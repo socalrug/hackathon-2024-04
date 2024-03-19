@@ -9,8 +9,8 @@ The hours for the mentors are:
 We are asking for a 2-3 hour time commitment (more if you want).
 
 You can get more information here:
-* https://tinyurl.com/hackathon-2023-04
-* https://github.com/socalrug/hackathon-2023-04
+* https://www.eventbrite.com/e/socalrug-data-science-hackathon-tickets-862572245807
+* https://github.com/socalrug/hackathon-2024-04
  
 Please let me know if you are interested or not and what your availability would be.
 

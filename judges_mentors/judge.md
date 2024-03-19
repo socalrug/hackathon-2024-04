@@ -2,7 +2,7 @@
 
 |Name|Status|
 |:-  |:-:   |
-|Alan Foote|Confirmed|
+|Chelsea Parlett|Confirmed|
 |Mohamed Abdelhamid|Confirmed|
 |Olga Korosteleva|Confirmed|
 

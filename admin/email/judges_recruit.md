@@ -7,7 +7,7 @@ The goals of the hackathon are:
 
 The teams will work throughout the weekend to develop their projects and present them at a final event. During the presentation you will assess them for a number of different prizes. These are the judging guidelines (https://github.com/socalrug/hackathon-2023-04/blob/master/admin/judging_guidelines.md).
 
-You are welcome to come to the event during the weekend but you would need to be there from 1:00 - 4:00 PM on 2023-04-23. The event will be held at Merage Business School at UC, Irvine.
+You are welcome to come to the event during the weekend but you would need to be there from 1:00 - 4:00 PM on 2023-04-27. The event will be held at Merage Business School at UC, Irvine.
 
 I would be happy to answer any questions and looking forward to having you participate in this event.
 

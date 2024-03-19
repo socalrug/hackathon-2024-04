@@ -16,6 +16,7 @@ The event's repository has more information, things like the schedule, meals (yu
 The event has sold out the last 6-years and we expect to sell-out again this year. So, sign-up early.
 
 ** Hackathon Sign-up **
+https://www.eventbrite.com/e/socalrug-data-science-hackathon-tickets-862572245807
 
 There is a small fee, $35, for the event. This to help defray costs such as meals, snacks, prizes, etc. However, we would never want the cost to stand in the way of your fun. So, there is a limited number of tickets that we can hand-out to people with financial hardships. Email us at orangecounty.rug@gmail.com for details.
 

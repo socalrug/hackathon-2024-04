@@ -16,6 +16,7 @@ The event's repository has more information, things like the schedule, meals (
 The event has sold out the last 6-years and we expect to sell-out again this year. So, sign-up early.
 
 ** Hackathon Sign-up **
+https://www.eventbrite.com/e/socalrug-data-science-hackathon-tickets-862572245807
 
 Cheers
 
