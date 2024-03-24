@@ -83,12 +83,12 @@ During this event you can use any tool that you want. It is common for data team
 |  3:00 PM –  3:30 PM | Judges Deliberate; Complete Event Survey |
 |  3:30 PM –  4:00 PM | Award Presentation & Wrap-Up |
 
-*Note* The building is locked all day Sunday. If you leave during the event, please arrange to have someone open the door for you. You can also text Pablo Barajas Peach at 310-997-0142 to let you in.
+*Note* The building is locked all day Sunday. If you leave during the event, please arrange to have someone open the door for you. You can also text Pablo Barajas at 310-997-0142 to let you in.
 
 ## Rules
 
 * All participants must [register for the event](https://www.eventbrite.com/e/socalrug-data-science-hackathon-tickets-862572245807) and have a valid ticket to attend.
-* All participants must abide by the [SoCal RUG Code of Conduct](https://github.com/socalrug/hackathon-2023-04/blob/master/code-of-conduct.md), including the [R Consortium and the R Community Code of Conduct](https://wiki.r-consortium.org/view/R_Consortium_and_the_R_Community_Code_of_Conduct).
+* All participants must abide by the [SoCal RUG Code of Conduct](https://github.com/socalrug/hackathon-2024-04/blob/master/code-of-conduct.md), including the [R Consortium and the R Community Code of Conduct](https://wiki.r-consortium.org/view/R_Consortium_and_the_R_Community_Code_of_Conduct).
 * Participants are free to come and go during the event. However, any participant who has not checked in by 01:00 PM on Saturday will be considered a "no-show" and their spot may be given to someone else.
 * Participants are free to use any programming language or tool for their work.
 * Participants are free to work on their projects both on-site at the hackathon and off-site. It is highly encouraged that participants attend all working sessions to maximize team and group interactions.
@@ -101,10 +101,7 @@ During this event you can use any tool that you want. It is common for data team
 
 If you are at the Paul Merage Business School you can get help at: Merage Technology Support
 
-4293 Pereira Dr
-
-SB1 - Suite 2400
-
+4293 Pereira Dr, SB1 - Suite 2400
 Irvine, CA 92697
 
 (949)824-4357
@@ -120,7 +117,7 @@ SoCal RUG GitHub Repo: [https://github.com/socalrug/](https://github.com/socalru
 command: 
 
 ```
-git clone git@github.com:socalrug/hackathon-2023-04.git
+git clone git@github.com:socalrug/hackathon-2024-04.git
 ```
 
 You can access the hackathon repo with a web browser [https://github.com/socalrug/hackathon-2024-04](https://github.com/socalrug/hackathon-2024-04), however, it is strongly recommended that you `clone` the repo as it will frequently be updated throughout the event.
@@ -153,7 +150,7 @@ The channel for the hackathon is **hackathon-2024-04**
 
 ## Award Categories and Prizes
 
-See the [presentation guidelines](https://github.com/socalrug/hackathon-2023-04/blob/master/presentation/presentation_guidelines.md) for the requirements. The team prizes will be determined by a panel of judges using the following [judging guidelines](https://github.com/socalrug/hackathon-2023-04/blob/master/admin/judging_guidelines.md).  The judge's decision is final.
+See the [presentation guidelines](https://github.com/socalrug/hackathon-2024-04/blob/master/presentation/presentation_guidelines.md) for the requirements. The team prizes will be determined by a panel of judges using the following [judging guidelines](https://github.com/socalrug/hackathon-2024-04/blob/master/admin/judging_guidelines.md).  The judge's decision is final.
 
 Below is a list of the awards and [prizes](https://github.com/socalrug/hackathon-2024-04/blob/main/prizes/prizes.md). Winners will be able to select from the available assortment of prizes.
 
@@ -211,10 +208,10 @@ After the event, please complete the [SoCal RUG Hackathon 2024-04 Survey](https:
 Food, drinks and snacks will be provided throughout the event.  We will have vegetarian options available. Please feel free to bring any additional food for yourself if you would like to supplement the meals or if you have other specific dietary constraints.
 
 * **Saturday**
-  * *Lunch*: Tacos, Chips, Rice & Beans
-  * *Dinner*: Chicken & Falafel Bowls
+  * *Lunch*: ...
+  * *Dinner*: ...
 * **Sunday**
-  * *Lunch*: Sandwich Boxed Lunches. There will be a limited number of gluten free meals.
+  * *Lunch*: ...
 * **Snacks and Drinks**
   * Coffee
   * Various teas
@@ -224,5 +221,4 @@ Food, drinks and snacks will be provided throughout the event.  We will have veg
 
 ## Sponsors
 
-* [R Consortium](https://www.r-consortium.org/)
 * [UC Irvine - Paul Merage School of Business](https://merage.uci.edu/) 
