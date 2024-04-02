@@ -2,11 +2,11 @@
 
 |Name|Status|Date|Time Frame|Comment|
 |:-  |:-:   |:-  |:-:       |:-|
-|Amy Chen|Asked| | |Can only do in remotely.|
+|Greg|Confirmed| | ||
 |Bella Feng|Asked| | |2023-03-23, 2023-03-27 sent a correction email|
 |Brendon Butler|Asked| | |2023-03-23 via LinkedIn, 2023-03-27 sent a correction email|
 |Bryan Travis Smith|Confirmed|2023-04-22|1PM to 5 or 6 PM |2023-03-23, 2023-03-27 sent a correction email|
-|Chris Pounds|Confirmed|2023-04-22|1:00-4:00 PM| |
+|Chris Pounds|Confirmed|2024-04-22|1:00-4:00 PM| |
 |Daniele Micci-Bacceca|Asked| | |2023-03-23, 2023-03-27 sent a correction email|
 |Darshana Daga|Asked| | |2023-03-23, 2023-03-27 sent a correction email|
 |Deepak Patil|Asked| | |2023-03-23, 2023-03-27 sent a correction email|
