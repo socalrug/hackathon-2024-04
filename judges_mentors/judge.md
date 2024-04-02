@@ -3,7 +3,7 @@
 |Name|Status|
 |:-  |:-:   |
 |Chelsea Parlett|Confirmed|
-|...|Confirmed|
+|Alan Foote|Confirmed|
 |...|Confirmed|
 
 
