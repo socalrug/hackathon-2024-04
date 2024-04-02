@@ -3,7 +3,7 @@
 |Name|Status|Date|Time Frame|Comment|
 |:-  |:-:   |:-  |:-:       |:-|
 |Greg Faletto|Confirmed| | | |
-|Chris Pounds|Confirmed|2024-04-22|1:00-4:00 PM| |
+|Chris Pounds|Confirmed| | | |
 |Bryan Travis Smith|asked| | | |
 |Dwight Wynne|Cant come| | | |
 
