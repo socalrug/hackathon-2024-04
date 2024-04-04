@@ -4,7 +4,7 @@
 |:-  |:-:   |:-  |:-:       |:-|
 |Greg Faletto|Confirmed| | | |
 |Chris Pounds|Confirmed| | | |
-|Bryan Travis Smith|asked| | | |
+|Bryan Travis Smith|cant make it| | | |
 |Dwight Wynne|Cant come| | | |
 
 
