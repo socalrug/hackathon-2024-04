@@ -16,8 +16,7 @@ We need a minimum of 25 prizes
 
 | **Description** |**Qty**|
 |-----------------|:----:|
-| Books from Taylor and Frances | They are shipping 5 books |
-| $100 AWS Cloud Credits | 5 requested |
+| Books from Taylor and Frances | 5? which ones? |
 | Milk frother | 2 |
 | Solar Power Bank | 2 |
 | Apple air-tag | 2 | 
@@ -28,6 +27,7 @@ We need a minimum of 25 prizes
 | Hydroflask | 2 |
 | Vacuum Insulated Tumbler | 2 |
 | Wireless Headset | 2 |
+| Apple AIr Tag | 3|
 
 
 
