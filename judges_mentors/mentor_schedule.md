@@ -3,10 +3,11 @@
 |Name|Status|Date|Time Frame|Comment|
 |:-  |:-:   |:-  |:-:       |:-|
 |Greg Faletto|Confirmed| | | |
+|Luke Morris|confirmed| all day| | |
 |Chris Pounds|Cant make it| | | |
 |Bryan Travis Smith|cant make it| | | |
 |Dwight Wynne|Cant come| | | |
-|Luke Morris|asked| | | |
+
 
 
 
