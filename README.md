@@ -56,9 +56,9 @@ During this event you can use any tool that you want. It is common for data team
 | :--  | :--   |
 | 09:00 AM            | Registration starts |
 | 09:00 AM -  9:30 AM | Light Breakfast, Set-up, Tech Support |
-| 09:30 AM – 10:15 AM | Tutorial: ... |
+| 09:30 AM – 10:15 AM | Tutorial: Javier Orraca - "Larger than memory data analysis in `Python` & `R` (via `Arrow` and `DuckDB`) |
 | 10:15 AM - 10:30 AM | Break |
-| 10:30 AM - 11:15 AM | Tutorial: ... |
+| 10:30 AM - 11:15 AM | Tutorial: Emil Hvitfeldt - "Feature Engineering" |
 | 11:15 AM - 11:30 AM | Break |
 | 11:30 PM – 12:00 PM | Morning Wrap-up, Questions, Team Formation |
 | 12:00 PM – 1:00 PM  | Lunch |
