@@ -2,7 +2,6 @@
 
 |Name|Status|Date|Time Frame|Comment|
 |:-  |:-:   |:-  |:-:       |:-|
-|Greg Faletto|Confirmed|Saturday |1-4pm | |
 |Kathleen Medriano|confirmed| Sunday | 9-12| |
 |Luke Morris|confirmed| all day| | |
 |Chris Pounds|Cant make it| | | |
