@@ -56,15 +56,13 @@ During this event you can use any tool that you want. It is common for data team
 | :--  | :--   |
 | 09:00 AM            | Registration starts |
 | 09:00 AM -  9:30 AM | Light Breakfast, Set-up, Tech Support |
-| 09:30 AM – 10:15 AM | Tutorial: Javier Orraca - "Larger than memory data analysis in `Python` & `R` (via `Arrow` and `DuckDB`) |
-| 10:15 AM - 10:30 AM | Break |
-| 10:30 AM - 11:15 AM | Tutorial: Emil Hvitfeldt - "Feature Engineering" |
-| 11:15 AM - 11:30 AM | Break |
-| 11:30 PM – 12:00 PM | Morning Wrap-up, Questions, Team Formation |
-| 12:00 PM – 1:00 PM  | Lunch |
-| 01:00 PM            | Registration Closes |
-| 01:00 PM – 01:30 PM | Welcome, Data Set Overview |
-| 01:30 PM – 05:30 PM | Working Session |
+| 09:30 AM – 11:00 AM | Tutorial: Javier Orraca - "Larger than memory data analysis in `Python` & `R` (via `Arrow` and `DuckDB`) |
+| 11:00 AM - 11:10 AM | Break |
+| 11:10 AM - 12:40 PM | Tutorial: Emil Hvitfeldt - "Feature Engineering" |
+| 12:40 PM – 01:40 PM | Lunch |
+| 01:40 PM – 02:00 PM | Morning Wrap-up, Questions, Team Formation |
+| 02:00 PM – 02:30 PM | Welcome, Data Set Overview |
+| 02:30 PM – 05:30 PM | Working Session |
 | 05:30 PM – 06:30 PM | Dinner |
 | 06:30 PM – 07:30 PM | Evening Data Challenge |
 | 07:30 PM - 10:00 PM | Working Session |
@@ -208,10 +206,10 @@ After the event, please complete the [SoCal RUG Hackathon 2024-04 Survey](https:
 Food, drinks and snacks will be provided throughout the event.  We will have vegetarian options available. Please feel free to bring any additional food for yourself if you would like to supplement the meals or if you have other specific dietary constraints.
 
 * **Saturday**
-  * *Lunch*: ...
-  * *Dinner*: ...
+  * *Lunch*
+  * *Dinner*
 * **Sunday**
-  * *Lunch*: ...
+  * *Lunch*
 * **Snacks and Drinks**
   * Coffee
   * Various teas
