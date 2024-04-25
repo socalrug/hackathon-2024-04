@@ -64,8 +64,7 @@ During this event you can use any tool that you want. It is common for data team
 | 02:00 PM – 02:30 PM | Welcome, Data Set Overview |
 | 02:30 PM – 05:30 PM | Working Session |
 | 05:30 PM – 06:30 PM | Dinner |
-| 06:30 PM – 07:30 PM | Evening Data Challenge |
-| 07:30 PM - 10:00 PM | Working Session |
+| 06:30 PM - 10:00 PM | Working Session |
 | 10:00 PM            | Building Automatically Locks |
 
 ### Sunday
@@ -156,10 +155,6 @@ Below is a list of the awards and [prizes](https://github.com/socalrug/hackathon
 * Best Analysis
 * Best Insight
 * Best Visualization
-
-## Saturday Evening Challenge Event
-
-On Saturday evening, we will have an hour-long data challenge event, the idea is to take a break from the main hackathon work, meet people and have some fun. This will be an opportunity to interact with other participants outside of your team, practice your data hacking skills on a new data set, and win prizes.
 
 ## Post-event Survey
 
