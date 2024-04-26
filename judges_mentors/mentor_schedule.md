@@ -4,9 +4,8 @@
 |:-  |:-:   |:-  |:-:       |:-|
 |Kathleen Medriano|confirmed| Sunday | 9-12| |
 |Luke Morris|confirmed| all day| | |
-|Chris Pounds|Cant make it| | | |
-|Bryan Travis Smith|cant make it| | | |
-|Dwight Wynne|Cant come| | | |
+|Greg Faletto|confirmed| | | |
+
 
 
 
