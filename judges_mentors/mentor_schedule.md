@@ -2,9 +2,9 @@
 
 |Name|Status|Date|Time Frame|Comment|
 |:-  |:-:   |:-  |:-:       |:-|
-|Kathleen Medriano|confirmed| Sunday | 9-12| |
+|Kathleen Medriano|confirmed| Sun | 9-12| |
 |Luke Morris|confirmed| all day| | |
-|Greg Faletto|confirmed| | | |
+|Greg Faletto|confirmed| Sat | 1-4 | |
 
 
 
