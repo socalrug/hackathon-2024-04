@@ -153,7 +153,7 @@ The channel for the hackathon is **hackathon-2024-04**
 
 ## Award Categories and Prizes
 
-See the [presentation guidelines](https://github.com/socalrug/hackathon-2024-04/blob/master/presentation/presentation_guidelines.md) for the requirements. The team prizes will be determined by a panel of judges using the following [judging guidelines](https://github.com/socalrug/hackathon-2024-04/blob/main/admin/judging_guidelines.md).  The judge's decision is final.
+See the [presentation guidelines](https://github.com/socalrug/hackathon-2024-04/blob/master/presentation/presentation_guidelines.md) for the requirements. The team prizes will be determined by a panel of judges using the following [judging guidelines](https://github.com/socalrug/hackathon-2024-04/blob/main/judges_mentors/judging_guidelines.md).  The judge's decision is final.
 
 Below is a list of the awards and [prizes](https://github.com/socalrug/hackathon-2024-04/blob/main/prizes/prizes.md). Winners will be able to select from the available assortment of prizes.
 
