@@ -122,10 +122,12 @@ You can access the hackathon repo with a web browser [https://github.com/socalru
 
 ## Tutorial Material
 
-All the tutorial material can be found at the following website ... [Pending](Pending).
+All the tutorial material can be found via the resources below:
 
-[Feature Engineering](https://emilhvitfeldt.github.io/talk-socalrug-hackathon-feature-engineering/)
-[Source files](https://github.com/EmilHvitfeldt/talk-socalrug-hackathon-feature-engineering)
+- [ETL with Arrow and DuckDB](https://javorraca.github.io/UCI-2024-Hackathon-Workshop-Arrow-DuckDB)
+  - [Source files](https://github.com/JavOrraca/UCI-2024-Hackathon-Workshop-Arrow-DuckDB) 
+- [Feature Engineering](https://emilhvitfeldt.github.io/talk-socalrug-hackathon-feature-engineering/)
+  - [Source files](https://github.com/EmilHvitfeldt/talk-socalrug-hackathon-feature-engineering)
 
 ## Slack Channel
 
