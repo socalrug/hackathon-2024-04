@@ -125,6 +125,7 @@ You can access the hackathon repo with a web browser [https://github.com/socalru
 All the tutorial material can be found at the following website ... [Pending](Pending).
 
 [Feature Engineering](https://emilhvitfeldt.github.io/talk-socalrug-hackathon-feature-engineering/)
+[Source files](https://github.com/EmilHvitfeldt/talk-socalrug-hackathon-feature-engineering)
 
 ## Slack Channel
 
