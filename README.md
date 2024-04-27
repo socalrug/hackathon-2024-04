@@ -124,6 +124,8 @@ You can access the hackathon repo with a web browser [https://github.com/socalru
 
 All the tutorial material can be found at the following website ... [Pending](Pending).
 
+[Feature Engineering](https://emilhvitfeldt.github.io/talk-socalrug-hackathon-feature-engineering/)
+
 ## Slack Channel
 
 A slack channel has been set up for the hackathon. This will be used for general announcements but it is also a great source for you to ask questions to other participants.
